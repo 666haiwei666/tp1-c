@@ -9,9 +9,6 @@
   "keywords": [],
   "author": "{{author}}",
   "license": "ISC",
-  "bin": {
-    "abc": "./index.js"
-  },
   "dependencies": {
     "commander": "^5.1.0",
     "download-git-repo": "^3.0.2"
